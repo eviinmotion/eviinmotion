@@ -1,16 +1,21 @@
-## Hi there 👋
+# ✨ Hey, ich bin Eveline! 💅
 
-<!--
-**eviinmotion/eviinmotion** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img src="https://media.giphy.com/media/l41YkxvUkvPE8Xxt6/giphy.gif" width="100" align="right" />
 
-Here are some ideas to get you started:
+### 👑 Coding like a girl
+* 🎓 **Studium:** Wirtschaftsinformatik 
+* ☕ **Aktuelle Obsession:** Meine **Java**-Lösungen in **Maven** perfektionieren.
+* 🛠 **Mission:** Bugfreier Code, der besser aussieht als deine Ex.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 💄 My Tech Stack & Aesthetics:
+![Java](https://img.shields.io/badge/Java-FF69B4?style=for-the-badge&logo=java&logoColor=white)
+![Maven](https://img.shields.io/badge/Maven-FFB6C1?style=for-the-badge&logo=apache-maven&logoColor=333333)
+![IntelliJ](https://img.shields.io/badge/IntelliJ_IDEA-FF1493?style=for-the-badge&logo=intellij-idea&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-FFC0CB?style=for-the-badge&logo=github&logoColor=333333)
+
+<img src="https://github-readme-stats.vercel.app/api?username=eviinmotion&show_icons=true&theme=rose&hide_border=true&count_private=true" alt="Evis Pink Stats" />
+
+---
+> "Stop staring at my code, start fixing yours. 😘"
