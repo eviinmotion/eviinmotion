@@ -4,8 +4,6 @@
 
 ### 👑 Coding like a girl
 * 🎓 **Studium:** Wirtschaftsinformatik 
-* ☕ **Aktuelle Obsession:** Meine **Java**-Lösungen in **Maven** perfektionieren.
-* 🛠 **Mission:** Bugfreier Code, der besser aussieht als deine Ex.
 
 ---
 
