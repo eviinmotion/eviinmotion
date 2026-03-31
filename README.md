@@ -9,9 +9,9 @@
 <br>
 <br>
 <br>
-<br>
 
-  ### 💄 My Tech Stack & Aesthetics:
+
+  ### My Tech Stack & Aesthetics:
   ![Java](https://img.shields.io/badge/Java-FF69B4?style=for-the-badge&logo=java&logoColor=white)
   ![Maven](https://img.shields.io/badge/Maven-FFB6C1?style=for-the-badge&logo=apache-maven&logoColor=333333)
   ![IntelliJ](https://img.shields.io/badge/IntelliJ_IDEA-FF1493?style=for-the-badge&logo=intellij-idea&logoColor=white)
