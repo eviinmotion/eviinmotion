@@ -1,6 +1,6 @@
 # ✨ Hey, ich bin Eveline! 💅
 
-<img src="https://media.giphy.com/media/l41YkxvUkvPE8Xxt6/giphy.gif" width="100" align="right" />
+<img src="[https://media.giphy.com/media/l41YkxvUkvPE8Xxt6/giphy.gif](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExamtpdmthbDhxd28ybWljMG5kcDB4OWVucHB1eW5mZnBjaWVwcDBqbiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/p4gPC9wMVLfG0/giphy.gif)" width="100" align="right" />
 
 ### 👑 Coding like a girl
 * 🎓 **Studium:** Wirtschaftsinformatik 
@@ -16,4 +16,4 @@
 ![GitHub](https://img.shields.io/badge/GitHub-FFC0CB?style=for-the-badge&logo=github&logoColor=333333)
 
 ---
-> "Stop staring at my code, start fixing yours. 😘"
+> Stop staring at my code, start fixing yours. 😘
