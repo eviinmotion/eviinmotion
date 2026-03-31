@@ -15,7 +15,5 @@
 ![IntelliJ](https://img.shields.io/badge/IntelliJ_IDEA-FF1493?style=for-the-badge&logo=intellij-idea&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-FFC0CB?style=for-the-badge&logo=github&logoColor=333333)
 
-<img src="https://github-readme-stats.vercel.app/api?username=eviinmotion&show_icons=true&theme=rose&hide_border=true&count_private=true" alt="Evis Pink Stats" />
-
 ---
 > "Stop staring at my code, start fixing yours. 😘"
