@@ -1,11 +1,7 @@
 # ✨ Hey, ich bin Eveline! 💅
 
-<img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExamtpdmthbDhxd28ybWljMG5kcDB4OWVucHB1eW5mZnBjaWVwcDBqbiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/p4gPC9wMVLfG0/giphy.gif" width="300" align="right" />
+<img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExamtpdmthbDhxd28ybWljMG5kcDB4OWVucHB1eW5mZnBjaWVwcDBqbiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/p4gPC9wMVLfG0/giphy.gif" width="300" align="left" />
 
-### 👑 Coding like a girl
-* 🎓 **Studium:** Wirtschaftsinformatik 
-
----
 
 ### 💄 My Tech Stack & Aesthetics:
 ![Java](https://img.shields.io/badge/Java-FF69B4?style=for-the-badge&logo=java&logoColor=white)
